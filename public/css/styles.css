@@ -1,0 +1,8 @@
+*{
+    background-color: #131313;
+}
+.boxeadores{
+    display: flex;
+    justify-content: space-between;
+    position: relative;
+}
